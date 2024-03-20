@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Aman Gairola</h1>
-<h3 align="center">Laying the code bricks to pave the way for my future footsteps in the digital realm.</h3>
+<h1 align="center">Hello 👋, I'm Aman Gairola</h1>
+<h3 align="center">Laying the code foundation to shape my path in the digital domain.</h3>
 
-- 🌱 I’m currently learning **MERN stack**
+- 🌱 Currently mastering the **MERN stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/amngairola](https://github.com/amngairola)
+- 👨‍💻 Explore my projects at [https://github.com/amngairola](https://github.com/amngairola)
 
-- 💬 Ask me about **JavaScript , React , Java ,Cpp , Dsa**
+- 💬 Ask me about **JavaScript, React, Java, C++, DSA**
 
-- 📫 How to reach me **amngairola@gmail.com**
+- 📫 Reach me at **amngairola@gmail.com**
 
-- ⚡ Fun fact **I think I'm Lazy**
+- ⚡ Fun fact: **I consider myself lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
