@@ -3,7 +3,7 @@
 
 - 🌱 Currently mastering the **MERN stack**
 
-- 👨‍💻 Explore my projects at [https://github.com/amngairola](https://github.com/amngairola)
+- 👨‍💻 Explore my projects at [https://gairolaconnect.vercel.app](https:/gairolaconnect.vercel.app)
 
 - 💬 Ask me about **JavaScript, React, Java, C++, DSA**
 
