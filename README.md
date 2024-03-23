@@ -3,7 +3,7 @@
 
 - 🌱 Currently mastering the **MERN stack**
 
-- 👨‍💻 Explore my projects at [gairolaconnect.vercel.app](gairolaconnect.vercel.app)
+- 👨‍💻 Explore my projects at(gairolaconnect.vercel.app)
 
 - 💬 Ask me about **JavaScript, React, Java, C++, DSA**
 
