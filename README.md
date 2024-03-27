@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aman Gairola</h1>
 <h3 align="center">Building the code foundation to navigate my way in the digital realm.</h3>
 
-- 🌱 Currently mastering the **MERN stack**
+
 
 - 👨‍💻 Explore my projects at(gairolaconnect.vercel.app)
 
@@ -9,7 +9,6 @@
 
 - 📫 Reach me at **amngairola@gmail.com**
 
-- ⚡ Fun fact: **I consider myself lazy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
