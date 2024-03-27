@@ -1,12 +1,6 @@
 <h1 align="center">Hello 👋, I'm Aman Gairola</h1>
-<h3 align="center">Building the code foundation to navigate my way in the digital realm.</h3>
 
-
-
-- 👨‍💻 Explore my projects at(gairolaconnect.vercel.app)
-
-- 💬 Ask me about **JavaScript, React, Java, C++, DSA**
-
+- Check out my projects at gairolaconnect.vercel.app
 - 📫 Reach me at **amngairola@gmail.com**
 
 
