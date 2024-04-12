@@ -32,12 +32,16 @@
 
 ---
 
+---
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amngairola" alt="GitHub Streak" />
 </p>
 
+<p align="center"> &nbsp; </p> <!-- Space between the two sections -->
+
 ---
 
-### My GitHub Stats
+###  GitHub Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=amngairola&show_icons=true&count_private=true&hide=contribs,issues)
