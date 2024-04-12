@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Aman Gairola</h1>
 
-- Check out my projects at gairolaconnect.vercel.app
-- 📫 Reach me at **amngairola@gmail.com**
+Visit my projects at gairolaconnect.vercel.app
+📫 Contact me at amngairola@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
